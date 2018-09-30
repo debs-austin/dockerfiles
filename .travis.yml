@@ -1,7 +1,8 @@
 ---
+language: script
 branches:
   only:
-    -master
+    - master
 
 services:
   - docker
